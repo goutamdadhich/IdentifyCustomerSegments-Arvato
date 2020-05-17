@@ -14,8 +14,7 @@ This project uses the following software and Python libraries:
  * Pandas
  * Matplotlib
  * Seaborn
- * Pytorch
- * Torchvision
+ * KMean Clustring
  * Sklearn / scikit-learn
 
 ## Code File
